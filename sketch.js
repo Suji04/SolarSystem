@@ -1,5 +1,5 @@
 var body=[];
-var dt=1;
+var dt=3;
 var G=.1;
 var n=4;
 var text1="Solar System Simulation";
